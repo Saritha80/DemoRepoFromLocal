@@ -5,5 +5,6 @@ remotes/origin/branchmaster
   remotes/origin/remotebranch
   remotes/origin/saritha
   remotes/origin/secondbranch
+remotes/origin
 
-Help people interested in this repository understand your project by adding a README.
+Help people interested in this repository understand your project by delete a README.
